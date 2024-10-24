@@ -376,7 +376,7 @@ clear && clear && clear
 clear;clear;clear
 while true; do
 echo -e " $COLOR1╔══════════════════════════════════════════════════════════╗${NC}"
-echo -e " $COLOR1║${NC}${COLBG1}                ${WH} • SCRIPT VIP TUNNELING •                ${NC}$COLOR1║${NC}"
+echo -e " $COLOR1║${NC}${COLBG1}                 ${WH} • SCRIPT VIP TUNNELING •                ${NC}$COLOR1║${NC}"
 echo -e " $COLOR1╚══════════════════════════════════════════════════════════╝${NC}"
 echo -e " $COLOR1╔══════════════════════════════════════════════════════════╗${NC}"
 echo -e " $COLOR1║$NC${WH}• OS            ${COLOR1}: ${WH}$MODEL2${NC}"
