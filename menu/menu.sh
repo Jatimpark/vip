@@ -47,7 +47,7 @@ fi
 function key(){
 rm -rf /root/rmbl
 echo -e  "${COLOR1}┌──────────────────────────────────────────┐${NC}"
-echo -e  "${COLOR1}│              PASWORD SCRIPT KANGGACOR VIP     │${NC}"
+echo -e  "${COLOR1}│              PASWORD SCRIPT VIP     │${NC}"
 echo -e  "${COLOR1}└──────────────────────────────────────────┘${NC}"
 echo " "
 read -rp "Masukan Key Kamu Disini ctrl + c Exit : " -e kode
@@ -376,7 +376,7 @@ clear && clear && clear
 clear;clear;clear
 while true; do
 echo -e " $COLOR1╔══════════════════════════════════════════════════════════╗${NC}"
-echo -e " $COLOR1║${NC}${COLBG1}                  ${WH} • KANGGACOR VIP TUNNELING •            ${NC}$COLOR1║${NC}"
+echo -e " $COLOR1║${NC}${COLBG1}               ${WH} • SCRIPT VIP TUNNELING •            ${NC}$COLOR1║${NC}"
 echo -e " $COLOR1╚══════════════════════════════════════════════════════════╝${NC}"
 echo -e " $COLOR1╔══════════════════════════════════════════════════════════╗${NC}"
 echo -e " $COLOR1║$NC${WH}• OS            ${COLOR1}: ${WH}$MODEL2${NC}"
