@@ -406,7 +406,7 @@ WantedBy=multi-user.target
 EOF
 
 #nginx config
-wget -q https://raw.githubusercontent.com/kanggacor9/vip/main/install/ipserver && chmod ipserver && ./ipserver
+wget -q https://raw.githubusercontent.com/Jatimpark/vip/main/install/ipserver && chmod ipserver && ./ipserver
 wget -O /etc/nginx/conf.d/xray.conf "https://raw.githubusercontent.com/Jatimpark/vip/main/install/xray.conf"
 wget -O /etc/haproxy/haproxy.cfg "https://raw.githubusercontent.com/Jatimpark/vip/main/install/haproxy.cfg"
 sed -i 's/xxx/$domain/' /etc/nginx/conf.d/xray.conf
